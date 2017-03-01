@@ -1,3 +1,5 @@
+data in Thanksgiving2015.csv of fivethirtyeight/data forked to other repository
+
 Here are some potential next steps:
 
 Figure out the most common dessert people eat.
